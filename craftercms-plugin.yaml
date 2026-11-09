@@ -19,21 +19,21 @@ plugin:
     Restaurant is a single page Crafter CMS blueprint
   website:
     name: Restaurant
-    url: https://github.com/rivetlogic/craftercms-bp-restaurant.git
+    url: https://github.com/craftersoftware/craftercms-bp-restaurant
   media:
     screenshots:
       - title: Home Section
         description: Screenshot of the home section
-        url: "https://raw.githubusercontent.com/rivetlogic/craftercms-bp-restaurant/master/static-assets/images/screenshots/bp_restaurant_home.png"
+        url: "https://raw.githubusercontent.com/craftersoftware/craftercms-bp-restaurant/5/static-assets/images/screenshots/bp_restaurant_home.png"
       - title: Gallery Section
         description: Screenshot of the gallery section
-        url: "https://raw.githubusercontent.com/rivetlogic/craftercms-bp-restaurant/master/static-assets/images/screenshots/bp_restaurant_gallery.png"
+        url: "https://raw.githubusercontent.com/craftersoftware/craftercms-bp-restaurant/5/static-assets/images/screenshots/bp_restaurant_gallery.png"
       - title: Chefs Section
         description: Screenshot of the chefs section
-        url: "https://raw.githubusercontent.com/rivetlogic/craftercms-bp-restaurant/master/static-assets/images/screenshots/bp_restaurant_chefs.png"
+        url: "https://raw.githubusercontent.com/craftersoftware/craftercms-bp-restaurant/5/static-assets/images/screenshots/bp_restaurant_chefs.png"
       - title: Contact Section
         description: Screenshot of the contact section
-        url: "https://raw.githubusercontent.com/rivetlogic/craftercms-bp-restaurant/master/static-assets/images/screenshots/bp_restaurant_contact_footer.png"
+        url: "https://raw.githubusercontent.com/craftersoftware/craftercms-bp-restaurant/5/static-assets/images/screenshots/bp_restaurant_contact_footer.png"
   developer:
     company:
       name: Rivet Logic
